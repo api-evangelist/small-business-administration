@@ -1,0 +1,45 @@
+{
+    "name": "Small Business Administration",
+    "description": "<p>The Small Business Administration (SBA) is a United States government agency that provides support to entrepreneurs and small businesses. The mission of the Small Business Administration is \"to maintain and strengthen the nation's economy by enabling the establishment and viability of small businesses and by assisting in the economic recovery of communities after disasters\". The agency's activities are summarized as the \"3 Cs\" of capital, contracts and counseling.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-SmallBusinessAdmin-Seal.svg.png",
+    "tags": [
+        "business",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/small-business-administration\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Small Business Administration",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/280px-US-SmallBusinessAdmin-Seal.svg.png",
+            "humanURL": "http:\/\/www.sba.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/small-business-administration-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.sba.gov\/about-sba\/sba_performance\/sba_data_store\/web_service_api"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sba.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Small_Business_Administration"
+        }
+    ]
+}
